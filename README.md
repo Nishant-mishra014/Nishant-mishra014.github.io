@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Page Title</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-</style>
-</head>
-<body>
+Visit my portfolio at - https://ishanrtripathi.github.io/
 
-<h1>My Website</h1>
-<p>A website created by me.</p>
-
-</body>
-</html>
+![image](https://user-images.githubusercontent.com/22456097/122665367-67312000-d1c4-11eb-914e-9fe237f61861.png)
